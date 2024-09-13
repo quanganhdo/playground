@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DuckDuckGo Review</title>
+        <item>
+            <title>1.106.0</title>
+            <pubDate>Fri, 13 Sep 2024 11:20:40 -0400</pubDate>
+            <sparkle:channel>internal-channel</sparkle:channel>
+            <sparkle:version>265</sparkle:version>
+            <sparkle:shortVersionString>1.106.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/quanganhdo/playground/raw/main/duckduckgo-1.106.0.265.dmg" length="83180683" type="application/octet-stream" sparkle:edSignature="KMyPnfTFBTVsus6pnpw++lQrAyfafQO6wnLOgCwSAGSeVNZVotzliwnFennz7YLezbe7xoo2oohb2t9+58vaBw=="/>
+        </item>
+    </channel>
+</rss>
