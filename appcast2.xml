@@ -9,6 +9,14 @@
             <sparkle:version>265</sparkle:version>
             <sparkle:shortVersionString>1.106.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
+            <description>
+    <![CDATA[
+      <h2>What's New</h2>
+      <ul>
+        <li>Bug fixes and improvements</li>
+      </ul>
+    ]]>
+        </description>
             <enclosure url="https://github.com/quanganhdo/playground/raw/main/duckduckgo-1.106.0.265.dmg" length="83182302" type="application/octet-stream" sparkle:edSignature="bkpoV3o/z1JuA06jrNiBMfo+C8TRU5/KSdWRNenz3EHv5cgs9ehQc4VjizRsFTlpZ9MmasNlBmNJ0R4x53sMDg=="/>
         </item>
     </channel>
