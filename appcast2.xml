@@ -3,12 +3,12 @@
     <channel>
         <title>DuckDuckGo Review</title>
         <item>
-            <title>1.106.0</title>
-            <pubDate>Fri, 13 Sep 2024 19:40:24 -0400</pubDate>
-            <sparkle:version>265</sparkle:version>
-            <sparkle:shortVersionString>1.106.0</sparkle:shortVersionString>
+            <title>1.110.0</title>
+            <pubDate>Wed, 16 Oct 2024 17:33:23 -0400</pubDate>
+            <sparkle:version>300</sparkle:version>
+            <sparkle:shortVersionString>1.110.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/quanganhdo/playground/raw/main/duckduckgo-1.106.0.265.dmg" length="83182302" type="application/octet-stream" sparkle:edSignature="bkpoV3o/z1JuA06jrNiBMfo+C8TRU5/KSdWRNenz3EHv5cgs9ehQc4VjizRsFTlpZ9MmasNlBmNJ0R4x53sMDg=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/40079d3/duckduckgo-1.110.0.300.dmg" length="105986461" type="application/octet-stream" sparkle:edSignature="ED2u9r5WvzSwxLd7ZU105W/nnG2ikNxi7xXncnC8I0Dk3AzMMmKcPKZC7a6JcigBfEIq/+6AWfv+0ahosHSEBQ=="/>
             <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
