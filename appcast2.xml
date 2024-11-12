@@ -8,8 +8,9 @@
             <sparkle:version>300</sparkle:version>
             <sparkle:shortVersionString>1.110.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/5c81b71/duckduckgo-1.112.0.300.dmg" length="103145451" type="application/octet-stream" sparkle:edSignature="qfGi5rq9GxUQ7jjkCbhhHRKYLF0kzuJeZ4zUH4rzUARbidD1MyrkBAdGhwb3MgibDgqlW/PrbtaB6IDGBpnGBQ=="/>
-       │ i5rq9GxUQ7jjkCbhhHRKYLF0kzuJeZ4zUH4rzUARbidD1MyrkBAdGhwb3MgibDgqlW/PrbtaB6IDGBpnGBQ=="/>
+<enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/60d406b/duckduckgo-1.114.0.400.dmg" length="104523839" type="application/octet-stream" sparkle:edSig
+       │ nature="7VnSU+f8u8xFjaZZWzgYvwY88LwkhqAOw2o+2evl1EzjRHxDujGibRTQVitYRDTeQgZPCogKYmAdf
+       │ RuoAhk9Cg=="/>
             <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
