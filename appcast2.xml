@@ -1,19 +1,34 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>DuckDuckGo Review</title>
+        <title>DuckDuckGo</title>
         <item>
-            <title>1.114.0</title>
-            <pubDate>Tue, 12 Nov 2024 11:22:51 -0500</pubDate>
-            <sparkle:version>400</sparkle:version>
-            <sparkle:shortVersionString>1.114.0</sparkle:shortVersionString>
+            <title>1.117.0</title>
+            <pubDate>Tue, 03 Dec 2024 20:32:08 -0500</pubDate>
+            <sparkle:version>500</sparkle:version>
+            <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/60d406b/duckduckgo-1.114.0.400.dmg" length="104523839" type="application/octet-stream" sparkle:edSignature="7VnSU+f8u8xFjaZZWzgYvwY88LwkhqAOw2o+2evl1EzjRHxDujGibRTQVitYRDTeQgZPCogKYmAdfRuoAhk9Cg=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/98aebb5/duckduckgo-1.117.0.500.dmg" length="105105082" type="application/octet-stream" sparkle:edSignature="snaDXfjhICCCENynaGN6fhZHoj465cOdxdwwNkaFlG00KxAwYOimO4ylNPJhiXxHpWxwRVOrZNJsHOe030a9BA=="/>
             <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
-<ul>
-<li>Bug fixes and improvements.</li>
-</ul>
-]]></description>
+<ul style="font-size:12px">
+<li>DuckDuckGo will no longer provide browser updates for macOS Catalina and Big Sur below version 11.4. Update to a newer version of macOS in order to continue using the most recent version of DuckDuckGo.</li>
+<li>You can now enable Autofill Auto-lock to also protect access to your Logins and Credit Card while filling forms.</li>
+<li>We fixed a bug that prevented opening Outlook emails in a new Window.</li>
+</ul>]]></description>
+        </item>
+        <item>
+            <title>1.117.0</title>
+            <pubDate>Tue, 03 Dec 2024 20:32:06 -0500</pubDate>
+            <sparkle:version>400</sparkle:version>
+            <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
+<ul style="font-size:12px">
+<li>DuckDuckGo will no longer provide browser updates for macOS Catalina and Big Sur below version 11.4. Update to a newer version of macOS in order to continue using the most recent version of DuckDuckGo.</li>
+<li>You can now enable Autofill Auto-lock to also protect access to your Logins and Credit Card while filling forms.</li>
+<li>We fixed a bug that prevented opening Outlook emails in a new Window.</li>
+</ul>]]></description>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/17fc196/duckduckgo-1.117.0.400.dmg" length="105108880" type="application/octet-stream" sparkle:edSignature="p/xnA4ZUtzVzJpNZ0GHexomSbpI0LxNmuR3osSXepDYvzw6SR4pbOGtkInp/mJS0tBDfVPvk87F5j5Ndsb7zCQ=="/>
         </item>
     </channel>
 </rss>
