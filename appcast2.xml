@@ -11,10 +11,8 @@
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
             <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/80936d5/duckduckgo-1.117.0.500.dmg" length="105105059" type="application/octet-stream" sparkle:edSignature="2juk+3LPqgVhlQtlgfGIZ8EEideT/MoYH32CfPmfxT4QV5k7gV2hbKjHmosZlrxq93LEV3aVYck+44fNzngLDA=="/>
             <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
-<ul style="font-size:12px">
-<li>DuckDuckGo will no longer provide browser updates for macOS Catalina and Big Sur below version 11.4. Update to a newer version of macOS in order to continue using the most recent version of DuckDuckGo.</li>
-<li>You can now enable Autofill Auto-lock to also protect access to your Logins and Credit Card while filling forms.</li>
-<li>We fixed a bug that prevented opening Outlook emails in a new Window.</li>
+<ul>
+<li>Bug fixes and improvements.</li>
 </ul>]]></description>
         </item>
         <item>
@@ -24,10 +22,8 @@
             <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
             <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
-<ul style="font-size:12px">
-<li>DuckDuckGo will no longer provide browser updates for macOS Catalina and Big Sur below version 11.4. Update to a newer version of macOS in order to continue using the most recent version of DuckDuckGo.</li>
-<li>You can now enable Autofill Auto-lock to also protect access to your Logins and Credit Card while filling forms.</li>
-<li>We fixed a bug that prevented opening Outlook emails in a new Window.</li>
+<ul>
+<li>Bug fixes and improvements.</li>
 </ul>]]></description>
             <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/3552461/duckduckgo-1.117.0.400.dmg" length="105100146" type="application/octet-stream" sparkle:edSignature="vDV64T3Kqew+Gi/D0aYzpYs16u2z7/u3a3lvhQULaRkO2JR2YLQKCyNByV4JqRbNdpN/UKpdD60YMooRUmtkDA=="/>
         </item>
