@@ -6,6 +6,7 @@
             <title>1.117.0</title>
             <pubDate>Tue, 03 Dec 2024 20:32:08 -0500</pubDate>
             <sparkle:version>500</sparkle:version>
+            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
             <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
             <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/98aebb5/duckduckgo-1.117.0.500.dmg" length="105105082" type="application/octet-stream" sparkle:edSignature="snaDXfjhICCCENynaGN6fhZHoj465cOdxdwwNkaFlG00KxAwYOimO4ylNPJhiXxHpWxwRVOrZNJsHOe030a9BA=="/>
@@ -18,7 +19,7 @@
         </item>
         <item>
             <title>1.117.0</title>
-            <pubDate>Tue, 03 Dec 2024 20:32:06 -0500</pubDate>
+            <pubDate>Sun, 01 Dec 2024 20:32:06 -0500</pubDate>
             <sparkle:version>400</sparkle:version>
             <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
