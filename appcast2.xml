@@ -4,12 +4,12 @@
         <title>DuckDuckGo</title>
         <item>
             <title>1.117.0</title>
-            <pubDate>Tue, 03 Dec 2024 20:32:08 -0500</pubDate>
+            <pubDate>Tue, 04 Dec 2024 17:32:08 -0500</pubDate>
             <sparkle:version>500</sparkle:version>
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
             <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/80936d5/duckduckgo-1.117.0.500.dmg" length="105105059" type="application/octet-stream" sparkle:edSignature="2juk+3LPqgVhlQtlgfGIZ8EEideT/MoYH32CfPmfxT4QV5k7gV2hbKjHmosZlrxq93LEV3aVYck+44fNzngLDA=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/e46bf17/duckduckgo-1.117.0.500.dmg" length="105103352" type="application/octet-stream" sparkle:edSignature="SK8LhK9ecTP5uSlxopvDS9bCJR8X+ir+KtUNlW73W1uF4lKSxxIOAmCWsSTcRu1RxEfVleFBrkXGHqRMTccPCg=="/>
             <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
@@ -25,7 +25,7 @@
 <ul>
 <li>Bug fixes and improvements.</li>
 </ul>]]></description>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/3552461/duckduckgo-1.117.0.400.dmg" length="105100146" type="application/octet-stream" sparkle:edSignature="vDV64T3Kqew+Gi/D0aYzpYs16u2z7/u3a3lvhQULaRkO2JR2YLQKCyNByV4JqRbNdpN/UKpdD60YMooRUmtkDA=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/f3c4803/duckduckgo-1.117.0.400.dmg" length="105103770" type="application/octet-stream" sparkle:edSignature="ANyIkskuzlqKVWJR8x00odOHeZwy4SC98prERtbvrHTNiO6JHaXA31YK3wvXCchrY9MZboUXrNDGo/By+ixcBw=="/>
         </item>
     </channel>
 </rss>
