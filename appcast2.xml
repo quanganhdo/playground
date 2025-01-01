@@ -10,6 +10,10 @@
             <sparkle:shortVersionString>1.120.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
             <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/9583e72/duckduckgo-1.120.0.500.dmg" length="107895908" type="application/octet-stream" sparkle:edSignature="FEiJ8na1MABtjbY14M8V+Q2mSkSbcBVeNxsbMb3JAexET8nw9iWB04Eu7Z7Yy4cxodki4f2iXhpPtqGwl+W1DQ=="/>
+      <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
+<ul>
+<li>Bug fixes and improvements.</li>
+</ul>]]></description>
         </item>
         <item>
             <title>1.120.0</title>
@@ -17,7 +21,11 @@
             <sparkle:version>400</sparkle:version>
             <sparkle:shortVersionString>1.120.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/quanganhdo/playground/refs/heads/main/duckduckgo-1.120.0.400.dmg" length="107923967" type="application/octet-stream" sparkle:edSignature="cnWoKws3kdBxWlsrKCxdFeOvwZ1VWn+sY5NnHtWHtUjvb14yHYlSNZEtAMkCkDt+s+pvl5pyulCpde56vFQcCg=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/2d4374c/duckduckgo-1.120.0.400.dmg" length="107923967" type="application/octet-stream" sparkle:edSignature="cnWoKws3kdBxWlsrKCxdFeOvwZ1VWn+sY5NnHtWHtUjvb14yHYlSNZEtAMkCkDt+s+pvl5pyulCpde56vFQcCg=="/>
+      <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
+<ul>
+<li>Bug fixes and improvements.</li>
+</ul>]]></description>
         </item>
     </channel>
 </rss>
