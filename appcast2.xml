@@ -3,29 +3,21 @@
     <channel>
         <title>DuckDuckGo</title>
         <item>
-            <title>1.117.0</title>
-            <pubDate>Tue, 04 Dec 2024 17:32:08 -0500</pubDate>
+            <title>1.120.0</title>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
             <sparkle:version>500</sparkle:version>
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
-            <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.120.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/b1f220d/duckduckgo-1.117.0.500.dmg" length="105103971" type="application/octet-stream" sparkle:edSignature="NYrzjdmCtjIuVliaeK/8woa8G/+JM3cLWVmxuph6MiUzv4nZM1gFvuW7VX3D/ocPdSODs2LU93hddyIUEbnDAg=="/>
-            <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
-<ul>
-<li>Bug fixes and improvements.</li>
-</ul>]]></description>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/9583e72/duckduckgo-1.120.0.500.dmg" length="107895908" type="application/octet-stream" sparkle:edSignature="FEiJ8na1MABtjbY14M8V+Q2mSkSbcBVeNxsbMb3JAexET8nw9iWB04Eu7Z7Yy4cxodki4f2iXhpPtqGwl+W1DQ=="/>
         </item>
         <item>
-            <title>1.117.0</title>
+            <title>1.120.0</title>
             <pubDate>Sun, 01 Dec 2024 20:32:06 -0500</pubDate>
             <sparkle:version>400</sparkle:version>
-            <sparkle:shortVersionString>1.117.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.120.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
-<ul>
-<li>Bug fixes and improvements.</li>
-</ul>]]></description>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/a1bc842/duckduckgo-1.117.0.400.dmg" length="105106511" type="application/octet-stream" sparkle:edSignature="9jwdFvrGmIz+51cHFgfqQi1NgK1AWm4SFfcHtKnEFYID6ODOYWvD6I0aEW5vo0s7dq0QQJwEYbuukWuyU48NBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/quanganhdo/playground/refs/heads/main/duckduckgo-1.120.0.400.dmg" length="107923967" type="application/octet-stream" sparkle:edSignature="cnWoKws3kdBxWlsrKCxdFeOvwZ1VWn+sY5NnHtWHtUjvb14yHYlSNZEtAMkCkDt+s+pvl5pyulCpde56vFQcCg=="/>
         </item>
     </channel>
 </rss>
