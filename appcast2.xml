@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>DuckDuckGo</title>
+        <title>DuckDuckGo Review</title>
         <item>
-            <title>1.128.0</title>
-            <pubDate>Tue, 25 Feb 2025 22:51:28 -0500</pubDate>
-            <sparkle:version>500</sparkle:version>
-            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
-            <sparkle:shortVersionString>1.128.0</sparkle:shortVersionString>
+            <title>1.135.0</title>
+            <pubDate>Sat, 19 Apr 2025 18:49:03 -0400</pubDate>
+            <sparkle:version>2000</sparkle:version>
+            <sparkle:shortVersionString>1.135.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/b31098f/duckduckgo-1.128.0.500.dmg" length="107096299" type="application/octet-stream" sparkle:edSignature="zvDho3j4fxXdml+TOD/8UA2g9LldYxyQBQwxiZuj3dOs22JHtsPfVxp6tUzb2VDyr4x9O/YwUBuTIfzoNn7sCQ=="/>
-      <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/944c750/duckduckgo-1.135.0.2000.dmg" length="130735937" type="application/octet-stream" sparkle:edSignature="cXcX4Ljr6Ze1Jv2Dnh7j+FEZqyGdCUEAWKpQ30sC8sMuEbAVM7jFrWc4ykTThlxi+n9d2qBQ72N9kprNrS4MDQ=="/>
+            
+        <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
 </ul>]]></description>
-        </item>
+</item>
         <item>
-            <title>1.128.0</title>
-            <pubDate>Tue, 25 Feb 2025 22:51:12 -0500</pubDate>
-            <sparkle:version>400</sparkle:version>
-            <sparkle:shortVersionString>1.128.0</sparkle:shortVersionString>
+            <title>1.135.0</title>
+            <pubDate>Sat, 19 Apr 2025 18:49:02 -0400</pubDate>
+            <sparkle:version>1000</sparkle:version>
+            <sparkle:shortVersionString>1.135.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/cb52396/duckduckgo-1.128.0.400.dmg" length="107095716" type="application/octet-stream" sparkle:edSignature="9hozq/hb19k4tW6hY+XalTq2Krp1CTIqyiGRFzARj1g4PeaCfw8ZM5sYYOxt2AazzUYUbKx6jT9oiX967ISKCQ=="/>
-      <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/944c750/duckduckgo-1.135.0.2000.dmg" length="130731328" type="application/octet-stream" sparkle:edSignature="fB8vua3nvsFhjclcjhIjeqP/kOgdRpzywawTVKus9I8QEIkcnsxOSBzPSjhCXEcQQO2rgwkLwO4yAwIZnjRdDQ=="/>
+        <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
 </ul>]]></description>
-        </item>
+</item>
     </channel>
 </rss>
