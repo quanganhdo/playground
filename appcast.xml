@@ -4,11 +4,11 @@
         <title>DuckDuckGo Review</title>
         <item>
             <title>1.135.0</title>
-            <pubDate>Sat, 19 Apr 2025 20:31:16 -0400</pubDate>
+            <pubDate>Sat, 19 Apr 2025 21:37:43 -0400</pubDate>
             <sparkle:version>2000</sparkle:version>
             <sparkle:shortVersionString>1.135.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/5c52e13/duckduckgo-1.135.0.2000.dmg" length="130905409" type="application/octet-stream" sparkle:edSignature="vx9zvNrdeWlCc05xdEUAflK5MCTrwBBK4fPds9CbH5hXtslHt0fL499KtB8Qvagy15ahxjwrJg9HMH6UEgB/Cw=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/5c52e13/duckduckgo-1.135.0.2000.dmg" length="130902653" type="application/octet-stream" sparkle:edSignature="GeJ/ALM+wx4Sqm92TmsFKijU3BWaiiS5y91/3RY6oIKb/fyWurahmeWCeIhjGmDUgbE4C1p8qa5rXdaQ4OrwAQ=="/>
             
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
 <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
@@ -17,11 +17,11 @@
 </ul>]]></description></item>
         <item>
             <title>1.135.0</title>
-            <pubDate>Sat, 19 Apr 2025 20:31:20 -0400</pubDate>
+            <pubDate>Sat, 19 Apr 2025 21:37:45 -0400</pubDate>
             <sparkle:version>1000</sparkle:version>
             <sparkle:shortVersionString>1.135.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/76693e5/duckduckgo-1.135.0.1000.dmg" length="130905411" type="application/octet-stream" sparkle:edSignature="s+QfrLk4AVgK6eMJg6ECssVu0qMaaScNs1+MdIVKiazBa6pG1vQHLMvpWBLrqo0xjzFYngK//IKx+taCh4DJAw=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/76693e5/duckduckgo-1.135.0.1000.dmg" length="130906122" type="application/octet-stream" sparkle:edSignature="vc2Hg5ZjsWYboNDivgIMUwgXNzkW62bONz0SjF+eWFYSxxaG2E8OWx1nKOaUie8roxf8uCXiojrUXAQk919LAA=="/>
         <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
