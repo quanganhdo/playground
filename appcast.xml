@@ -3,12 +3,12 @@
     <channel>
         <title>DuckDuckGo Review</title>
         <item>
-            <title>1.151.0</title>
-            <pubDate>Wed, 06 Aug 2025 14:00:15 -0400</pubDate>
+            <title>1.159.0</title>
+            <pubDate>Sat, 04 Oct 2025 00:35:21 -0400</pubDate>
             <sparkle:version>2000</sparkle:version>
-            <sparkle:shortVersionString>1.151.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.159.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/79400f5/duckduckgo-review-1.151.0.2000.dmg" length="128008209" type="application/octet-stream" sparkle:edSignature="u1lQc4lTlQHNrKCDK8lUFPPxgRu5+xg+wJJZ6H6sUHsmIaNJxWeMei7e3DwuECWV/2bPcYrDei2KfJgTZnV0Bg=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/f230fef/duckduckgo-review-1.159.0.2000.dmg" length="138602950" type="application/octet-stream" sparkle:edSignature="mG92lTrRZkeIL6Rk4QWPOFN4Ey6XOS6WUNE5xx81UQNFzM+TK0fxgIp6Br1Co/W0SJESRfggPF9PBJRA9ahwDg=="/>
             
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
 <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
@@ -16,12 +16,12 @@
 <li>Bug fixes and improvements.</li>
 </ul>]]></description></item>
         <item>
-            <title>1.151.0</title>
-            <pubDate>Wed, 06 Aug 2025 13:58:07 -0400</pubDate>
+            <title>1.159.0</title>
+            <pubDate>Sat, 04 Oct 2025 00:35:12 -0400</pubDate>
             <sparkle:version>1000</sparkle:version>
-            <sparkle:shortVersionString>1.151.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.159.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/80484d4/duckduckgo-review-1.151.0.1000.dmg" length="128000539" type="application/octet-stream" sparkle:edSignature="s7dZdyi1ShAGj+KzbD+pN3gpUCRtHHis2NXZ1Bvf/ndo2UZeRPU553hlTBfjVNNNH4RqZJIxITiuKG5fVDLqCw=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/d4eadce/duckduckgo-review-1.159.0.1000.dmg" length="138612672" type="application/octet-stream" sparkle:edSignature="o8yIPi5a9P1WWUaUWZa2PHTSg3t36y3OOo3/5tdlZZ0nxEIerkc/o8KQJo9hMjxuukypePEuAK9ILrQ5HIirBQ=="/>
         <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
