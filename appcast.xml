@@ -8,7 +8,7 @@
             <sparkle:version>2000</sparkle:version>
             <sparkle:shortVersionString>1.159.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/a95a443/duckduckgo-review-1.159.0.2000.dmg" length="138612505" type="application/octet-stream" sparkle:edSignature="/kxByXweAONEypS3ARA5NlMwTfnfhu8J5X0lF9UB0amkU6lbAnKIsJRxL+YK/qXVzON41vKeqNyeXGhh/fwWBw=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/5ef1a4c/duckduckgo-review-1.159.0.2000.dmg" length="138612505" type="application/octet-stream" sparkle:edSignature="/kxByXweAONEypS3ARA5NlMwTfnfhu8J5X0lF9UB0amkU6lbAnKIsJRxL+YK/qXVzON41vKeqNyeXGhh/fwWBw=="/>
             
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
 <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
@@ -21,7 +21,7 @@
             <sparkle:version>1000</sparkle:version>
             <sparkle:shortVersionString>1.159.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/3d1c7e4/duckduckgo-review-1.159.0.1000.dmg" length="138614120" type="application/octet-stream" sparkle:edSignature="SDG1hMjTaUuZV+f//2g1dvF0J0YId1mEcYlFuUSJJct5ct6G49pYPGGuOclQTck9FnDsHL/X8uYluliYLgU4Dg=="/>
+            <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/baeba82/duckduckgo-review-1.159.0.1000.dmg" length="138614120" type="application/octet-stream" sparkle:edSignature="SDG1hMjTaUuZV+f//2g1dvF0J0YId1mEcYlFuUSJJct5ct6G49pYPGGuOclQTck9FnDsHL/X8uYluliYLgU4Dg=="/>
         <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
