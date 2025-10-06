@@ -9,8 +9,7 @@
             <sparkle:shortVersionString>1.160.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.4</sparkle:minimumSystemVersion>
             <enclosure url="https://staticcdn.duckduckgo.com/macos-desktop-browser/a81f9679-e41d-404d-81a6-fd4a461d82f7/testbuilds/b14f28d/duckduckgo-review-1.160.0.2000.dmg" length="138675402" type="application/octet-stream" sparkle:edSignature="Cpyf2whzx5FS8kCQjJaJpwKeSifTr4MP9fAt4bQjfzqJKHS3B7DIS+Mfb4GiesCernQej7USHcNs8NrQ5g3jBQ=="/>
-            
-            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
+
 <description><![CDATA[<h3 style="font-size:14px">What's new</h3>
 <ul>
 <li>Bug fixes and improvements.</li>
